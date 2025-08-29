@@ -43,7 +43,7 @@ To run this project, you will need to have the Flutter SDK installed on your mac
 
 1.  **Clone the repository:**
     ```bash
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/VitorNoe/Swiss_Army_Knife_App_Flutter.git
     cd swiss_army_knife_app
     ```
 
