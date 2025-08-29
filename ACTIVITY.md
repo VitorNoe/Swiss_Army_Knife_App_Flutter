@@ -36,7 +36,7 @@ This activity involved completing and organizing a Flutter project for a multi-f
 
 6.  **Documentation Generation:**
     *   Creation and population of the `README.md` file with detailed information about the application, features, project structure, how to run, and dependencies.
-    *   Creation and population of the `ATIVIDADE.md` file (this document) describing the tasks performed during development.
+    *   Creation and population of the `ACTIVITY.md` file (this document) describing the tasks performed during development.
 
 ## Next Steps (for the user)
 
